@@ -1,0 +1,11 @@
+{
+  "name": "myreads-project",
+  "version": "1.0.0",
+  "description": "Udacity Project MYReads\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[y\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C App",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm-test-run"
+  },
+  "author": "Ahmed Qotb",
+  "license": "ISC"
+}
